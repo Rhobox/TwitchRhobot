@@ -1,0 +1,2 @@
+# TwitchRhobot
+NodeJS Twitch Bot
